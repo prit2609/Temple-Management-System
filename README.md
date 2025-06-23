@@ -32,7 +32,7 @@ A complete web-based solution to streamline temple administration, online room b
 
 ---
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 <p>
 The <b>Temple Management System</b> is designed to address inefficiencies in the traditional management system used by the temple. It enables digital room booking, donation handling, online order processing, and communication between devotees and temple staff.
@@ -40,7 +40,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 <ul>
   <li>🔒 User Registration & Secure Login</li>
@@ -56,7 +56,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 <br>
 ---
 
-## 🧰 Technologies Used
+### 🧰 Technologies Used
 
 - <b>Frontend:</b> HTML5, CSS3, JavaScript  
 - <b>Backend:</b> Python (Django Framework)  
