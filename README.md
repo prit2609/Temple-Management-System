@@ -120,11 +120,12 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
   🛠️ Admin Panel:
     <ui>
-    <li>Manage Users, Donations, Bookings</li>  
+    <li>Manage Users,Donations, Bookings</li>
     <li>Inventory & Order Management</li>
     <li>View Feedback</li>
     <li>Generate Reports</li>
-    </ui><br>
+    </ui>
+    <br>
 
 
   ## 🖼️ Screenshots
