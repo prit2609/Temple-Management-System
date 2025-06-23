@@ -121,7 +121,8 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Book Temple Rooms</li>
     <li>Purchase from Spiritual Store</li>
     <li>Give Feedback<li>
-    </ui>
+
+</ui>
     
 <br>
   🛠️ Admin Panel:
