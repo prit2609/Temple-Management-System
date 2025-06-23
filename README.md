@@ -109,12 +109,9 @@ The **Temple Management System** is designed to address inefficiencies in the tr
 
   🛠️ Admin Panel:
     
-    Manage Users, Donations, Bookings
-    
-    Inventory & Order Management
-    
+    Manage Users, Donations, Bookings    
+    Inventory & Order Management    
     View Feedback
-    
     Generate Reports
 
 
@@ -135,13 +132,9 @@ The **Temple Management System** is designed to address inefficiencies in the tr
   ⚠️ Limitations
 
     Room booking updates are not reflected after checkout.
-    
     Limited product availability in the store.
-    
     No Cash on Delivery (COD) option.
-    
     Basic payment options only (no UPI or international methods).
-    
     Basic shipping (no live tracking).
 
 
@@ -149,13 +142,9 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     🔐 Biometric or facial recognition login
     
     📊 Advanced analytics with AI/ML
-    
     🌐 Social media integration for event promotion
-    
     📦 Real-time inventory & shipping tracking
-    
     🔁 Automation for volunteer/event/resource management
-    
     📱 Mobile App version for Android/iOS
 
   🤝 Contributing
