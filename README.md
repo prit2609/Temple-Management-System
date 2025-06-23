@@ -167,7 +167,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
    ![News and Alert](screenshots/New_and_Alert.png)
 
 <br>
-  ⚠️ Limitations
+  ⚠️ Limitations<br>
   
   <ui>
     <li>Room booking updates are not reflected after checkout.</li>
@@ -191,8 +191,8 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 <br><br>
 🤝 Contributing
-  <br>Want to contribute? Great! Fork this repo and raise a pull request.<br>
+    <br>Want to contribute? Great! Fork this repo and raise a pull request.<br>
 
   📧 Contact
     For queries or collaboration:<br>
-    📨 templemanagementsystem66@gmail.com
+      📨 templemanagementsystem66@gmail.com
