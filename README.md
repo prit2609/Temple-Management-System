@@ -129,41 +129,41 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
   ## 🖼️ Screenshots
 
-    ### 🏠 Home Page
-    ![Home Page](screenshots/Home_1.png)
-    ![Home Page](screenshots/Home_2.png)
-    ![Home Page](screenshots/Home_3.png)
-    ![Home Page](screenshots/Home_4.png)
+  ### 🏠 Home Page
+   ![Home Page](screenshots/Home_1.png)
+   ![Home Page](screenshots/Home_2.png)
+   ![Home Page](screenshots/Home_3.png)
+   ![Home Page](screenshots/Home_4.png)
 
-    ### 🔐 Login
-    ![Login](screenshots/Login.png)
+  ### 🔐 Login
+   ![Login](screenshots/Login.png)
 
-    ### 📝 Register
-    ![Register](screenshots/Register.png)
-    ![OTP Verification](screenshots/OTP.png)
-    ![Reset Password](screenshots/OTP_For_Change_Password.png)
+  ### 📝 Register
+   ![Register](screenshots/Register.png)
+   ![OTP Verification](screenshots/OTP.png)
+   ![Reset Password](screenshots/OTP_For_Change_Password.png)
 
-    ### 🛏️ Room Booking
-    ![Room Booking](screenshots/RoomBooking.png)
+  ### 🛏️ Room Booking
+   ![Room Booking](screenshots/RoomBooking.png)
 
-    ### 💳 Donation
-    ![Donation](screenshots/Donation.png)
+  ### 💳 Donation
+   ![Donation](screenshots/Donation.png)
+   
+  ### 🛍️ Spiritual Store
+   ![Store](screenshots/Store.png)
+   ![Store](screenshots/Store_2.png)
 
-    ### 🛍️ Spiritual Store
-    ![Store](screenshots/Store.png)
-    ![Store](screenshots/Store_2.png)
+  ### 💬 Feedback
+   ![Feedback](screenshots/Feedback.png)
 
-    ### 💬 Feedback
-    ![Feedback](screenshots/Feedback.png)
+  ### 👤 Profile
+   ![Profile](screenshots/Profile.png)
 
-    ### 👤 Profile
-    ![Profile](screenshots/Profile.png)
+  ### 🖼️ Photo Gallery
+   ![Photo Gallery](screenshots/Photo_Gallery.png)
 
-    ### 🖼️ Photo Gallery
-    ![Photo Gallery](screenshots/Photo_Gallery.png)
-
-    ### 📢 News and Alerts
-    ![News and Alert](screenshots/New_and_Alert.png)
+  ### 📢 News and Alerts
+   ![News and Alert](screenshots/New_and_Alert.png)
 
 
   ⚠️ Limitations
@@ -178,18 +178,18 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
   🔮 Future Scope
 
-    <ui>  
+  <ui>  
     <li>🔐 Biometric or facial recognition login</li>
     <li>📊 Advanced analytics with AI/ML</li>
     <li>🌐 Social media integration for event promotion</li>
     <li>📦 Real-time inventory & shipping tracking</li>
     <li>🔁 Automation for volunteer/event/resource management</li>
     <li>📱 Mobile App version for Android/iOS</li>
-    </ui>
+  </ui>
 
   🤝 Contributing
     
-    Want to contribute? Great! Fork this repo and raise a pull request.
+  <br>Want to contribute? Great! Fork this repo and raise a pull request.
 
   📧 Contact
     For queries or collaboration:
