@@ -135,7 +135,7 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     ![Login](screenshots/Login.png)
 
     ### 🛏️ Room Booking
-    ![Room Booking](/screenshots/RoomBooking.png)
+    ![Room Booking](screenshots/RoomBooking.png)
 
     ### 💰 Donation
     ![Donation](screenshots/Donation.png)
@@ -143,7 +143,6 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     ### 🛍️ Spiritual Store
     ![Store](screenshots/Strore.png)
     ![Store](screenshots/Strore_2.png)
-
 
     ### 💰 Feedback
     ![Feedback](screenshots/Feedback.png)
