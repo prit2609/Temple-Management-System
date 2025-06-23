@@ -115,45 +115,42 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     Generate Reports
 
 
-  🖼️ Screenshots
+  ## 🖼️ Screenshots
 
     ### 🏠 Home Page
-    ![Home Page](/screenshots/Home_1.png)
-    ![Home Page](/screenshots/Home_2.png)
-    ![Home Page](/screenshots/Home_3.png)
-    ![Home Page](/screenshots/Home_4.png)
+    ![Home Page](screenshots/Home_1.png)
+    ![Home Page](screenshots/Home_2.png)
+    ![Home Page](screenshots/Home_3.png)
+    ![Home Page](screenshots/Home_4.png)
 
-    ### 🛏️ Login
+    ### 🔐 Login
     ![Login](screenshots/Login.png)
 
-    ### 🛏️ Register
+    ### 📝 Register
     ![Register](screenshots/Register.png)
     ![OTP Verification](screenshots/OTP.png)
     ![Reset Password](screenshots/OTP_For_Change_Password.png)
-    
-    ### 🛏️ Login
-    ![Login](screenshots/Login.png)
 
     ### 🛏️ Room Booking
     ![Room Booking](screenshots/RoomBooking.png)
 
-    ### 💰 Donation
+    ### 💳 Donation
     ![Donation](screenshots/Donation.png)
 
     ### 🛍️ Spiritual Store
-    ![Store](screenshots/Strore.png)
-    ![Store](screenshots/Strore_2.png)
+    ![Store](screenshots/Store.png)
+    ![Store](screenshots/Store_2.png)
 
-    ### 💰 Feedback
+    ### 💬 Feedback
     ![Feedback](screenshots/Feedback.png)
 
-    ### 💰 Profile
+    ### 👤 Profile
     ![Profile](screenshots/Profile.png)
 
-    ### 💰 Photo Galary
-    ![Photo Galary](screenshots/Phto_Gallery.png)
+    ### 🖼️ Photo Gallery
+    ![Photo Gallery](screenshots/Photo_Gallery.png)
 
-    ### 💰 News and Alert
+    ### 📢 News and Alerts
     ![News and Alert](screenshots/New_and_Alert.png)
 
 
