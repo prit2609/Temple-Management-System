@@ -120,7 +120,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Donate Online</li>
     <li>Book Temple Rooms</li>
     <li>Purchase from Spiritual Store</li>
-    <li>Give Feedback<li></ui>
+    <li>Give Feedback</li></ui>
     
   <br>
   🛠️ Admin Panel:
