@@ -138,7 +138,7 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     ![Room Booking](/screenshots/RoomBooking.png)
 
     ### 💰 Donation
-    ![Donation]([screenshots/Donation.png](https://github.com/prit2609/Temple-Management-System/blob/main/screenshots/Donation.png))
+    ![Donation](screenshots/Donation.png)
 
     ### 🛍️ Spiritual Store
     ![Store](screenshots/Strore.png)
