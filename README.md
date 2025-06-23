@@ -67,7 +67,8 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 - <b>Payment Gateway:</b> Razorpay (test mode)  
 - <b>Diagramming:</b> UML (Use-Case, Activity, Class, Sequence)
 <br>
----
+
+
 <a name="system-requirements"></a>
 ### 💻 System Requirements
 
@@ -120,8 +121,9 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Book Temple Rooms</li>
     <li>Purchase from Spiritual Store</li>
     <li>Give Feedback<li>
-    </ui><br>
-
+    </ui>
+    
+<br>
   🛠️ Admin Panel:
     <ui>
     <li>Manage Users,Donations, Bookings</li>
