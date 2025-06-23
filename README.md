@@ -53,7 +53,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   <li>📂 Inventory Management</li>
   <li>🔐 Data Privacy and Secure Transactions</li>
 </ul>
-
+<br>
 ---
 
 ## 🧰 Technologies Used
@@ -64,7 +64,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 - <b>Server:</b> Apache (localhost for development)  
 - <b>Payment Gateway:</b> Razorpay (test mode)  
 - <b>Diagramming:</b> UML (Use-Case, Activity, Class, Sequence)
-
+<br>
 ---
 
 ## 💻 System Requirements
@@ -105,7 +105,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
    python manage.py runserver
 
 7. **Visit**: http://127.0.0.1:8000
-
+<br>
 
 📦 Modules
   🙍‍♂️ User Panel:
@@ -116,7 +116,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Book Temple Rooms</li>
     <li>Purchase from Spiritual Store</li>
     <li>Give Feedback<li>
-    </ui>
+    </ui><br>
 
   🛠️ Admin Panel:
     <ui>
@@ -124,7 +124,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Inventory & Order Management</li>
     <li>View Feedback</li>
     <li>Generate Reports</li>
-    </ui>
+    </ui><br>
 
 
   ## 🖼️ Screenshots
@@ -165,7 +165,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   ### 📢 News and Alerts
    ![News and Alert](screenshots/New_and_Alert.png)
 
-
+<br>
   ⚠️ Limitations
     <ui>
     <li>Room booking updates are not reflected after checkout.</li>
@@ -173,7 +173,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>No Cash on Delivery (COD) option.</li>
     <li>Basic payment options only (no UPI or international methods).</li>
     <li>Basic shipping (no live tracking).</li>
-    </ui>
+    </ui><br>
 
 
   🔮 Future Scope
@@ -189,8 +189,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 <br><br>
 🤝 Contributing
-    
-  <br>Want to contribute? Great! Fork this repo and raise a pull request.
+  <br>Want to contribute? Great! Fork this repo and raise a pull request.<br>
 
   📧 Contact
     For queries or collaboration:
