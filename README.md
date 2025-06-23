@@ -168,7 +168,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 <br>
   ⚠️ Limitations
-  <br>
+  <br></br>
   <ui>
     <li>Room booking updates are not reflected after checkout.</li>
     <li>Limited product availability in the store.</li>
