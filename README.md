@@ -168,13 +168,14 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 <br>
   ⚠️ Limitations
-    <ui>
+  
+  <ui>
     <li>Room booking updates are not reflected after checkout.</li>
     <li>Limited product availability in the store.</li>
     <li>No Cash on Delivery (COD) option.</li>
     <li>Basic payment options only (no UPI or international methods).</li>
     <li>Basic shipping (no live tracking).</li>
-    </ui><br>
+  </ui><br>
 
 
   🔮 Future Scope
@@ -193,5 +194,5 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   <br>Want to contribute? Great! Fork this repo and raise a pull request.<br>
 
   📧 Contact
-    For queries or collaboration:
+    For queries or collaboration:<br>
     📨 templemanagementsystem66@gmail.com
