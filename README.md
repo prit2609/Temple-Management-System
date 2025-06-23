@@ -42,7 +42,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 ### ✨ Features
 
-<ul>
+<ui>
   <li>🔒 User Registration & Secure Login</li>
   <li>📅 Online Room Booking</li>
   <li>💳 Online Donation System with Categories</li>
@@ -52,7 +52,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   <li>📬 Feedback and Customer Support</li>
   <li>📂 Inventory Management</li>
   <li>🔐 Data Privacy and Secure Transactions</li>
-</ul>
+</ui>
 <br>
 ---
 
