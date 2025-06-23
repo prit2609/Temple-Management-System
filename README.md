@@ -119,6 +119,8 @@ The **Temple Management System** is designed to address inefficiencies in the tr
 
     ### 🏠 Home Page
     ![Home Page](screenshots/Home_1.png)
+    ![Alt Text](https://github.com/Jitesh38/AlumHub/blob/main/Screenshot%20(418).png)
+    ![Alt Text](https://github.com/prit2609/Temple-Management-System/blob/main/screenshots/Donation.png)
     ![Home Page](screenshots/Home_2.png)
     ![Home Page](screenshots/Home_3.png)
     ![Home Page](screenshots/Home_4.png)
