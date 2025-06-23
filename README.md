@@ -130,41 +130,44 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
   ## 🖼️ Screenshots
 
-  ### 🏠 Home Page
-   ![Home Page](screenshots/Home_1.png)
-   ![Home Page](screenshots/Home_2.png)
-   ![Home Page](screenshots/Home_3.png)
-   ![Home Page](screenshots/Home_4.png)
+### 🏠 Home Page
+<p float="left">
+  <img src="screenshots/Home_1.png" width="45%"/>
+  <img src="screenshots/Home_2.png" width="45%"/>
+  <img src="screenshots/Home_3.png" width="45%"/>
+  <img src="screenshots/Home_4.png" width="45%"/>
+</p>
 
-  ### 🔐 Login
-   ![Login](screenshots/Login.png)
+### 🔐 Login
+<img src="screenshots/Login.png" width="400px"/>
 
-  ### 📝 Register
-   ![Register](screenshots/Register.png)
-   ![OTP Verification](screenshots/OTP.png)
-   ![Reset Password](screenshots/OTP_For_Change_Password.png)
+### 📝 Register
+<img src="screenshots/Register.png" width="300px"/>
+<img src="screenshots/OTP.png" width="300px"/>
+<img src="screenshots/OTP_For_Change_Password.png" width="300px"/>
 
-  ### 🛏️ Room Booking
-   ![Room Booking](screenshots/RoomBooking.png)
+### 🛏️ Room Booking
+<img src="screenshots/RoomBooking.png" width="400px"/>
 
-  ### 💳 Donation
-   ![Donation](screenshots/Donation.png)
-   
-  ### 🛍️ Spiritual Store
-   ![Store](screenshots/Store.png)
-   ![Store](screenshots/Store_2.png)
+### 💳 Donation
+<img src="screenshots/Donation.png" width="400px"/>
 
-  ### 💬 Feedback
-   ![Feedback](screenshots/Feedback.png)
+### 🛍️ Spiritual Store
+<img src="screenshots/Store.png" width="300px"/>
+<img src="screenshots/Store_2.png" width="300px"/>
 
-  ### 👤 Profile
-   ![Profile](screenshots/Profile.png)
+### 💬 Feedback
+<img src="screenshots/Feedback.png" width="400px"/>
 
-  ### 🖼️ Photo Gallery
-   ![Photo Gallery](screenshots/Photo_Gallery.png)
+### 👤 Profile
+<img src="screenshots/Profile.png" width="400px"/>
 
-  ### 📢 News and Alerts
-   ![News and Alert](screenshots/New_and_Alert.png)
+### 🖼️ Photo Gallery
+<img src="screenshots/Photo_Gallery.png" width="500px"/>
+
+### 📢 News and Alerts
+<img src="screenshots/New_and_Alert.png" width="400px"/>
+
 
 <br>
   ⚠️ Limitations
