@@ -163,10 +163,15 @@ The **Temple Management System** is designed to address inefficiencies in the tr
   🔮 Future Scope
   
    🔐 Biometric or facial recognition login
+   
    📊 Advanced analytics with AI/ML
+   
    🌐 Social media integration for event promotion
+   
    📦 Real-time inventory & shipping tracking
+   
    🔁 Automation for volunteer/event/resource management
+   
    📱 Mobile App version for Android/iOS
 
   🤝 Contributing
