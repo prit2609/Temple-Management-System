@@ -139,34 +139,38 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 </p>
 
 ### 🔐 Login
-<img src="screenshots/Login.png" width="400px"/>
+<img src="screenshots/Login.png" width="45%"/>
 
 ### 📝 Register
-<img src="screenshots/Register.png" width="300px"/>
-<img src="screenshots/OTP.png" width="300px"/>
-<img src="screenshots/OTP_For_Change_Password.png" width="300px"/>
+<p float="left">
+  <img src="screenshots/Register.png" width="45%"/>
+  <img src="screenshots/OTP.png" width="45%"/>
+  <img src="screenshots/OTP_For_Change_Password.png" width="45%"/>
+</p>
 
 ### 🛏️ Room Booking
-<img src="screenshots/RoomBooking.png" width="400px"/>
+<img src="screenshots/RoomBooking.png" width="45%"/>
 
 ### 💳 Donation
-<img src="screenshots/Donation.png" width="400px"/>
+<img src="screenshots/Donation.png" width="45%"/>
 
 ### 🛍️ Spiritual Store
-<img src="screenshots/Store.png" width="300px"/>
-<img src="screenshots/Store_2.png" width="300px"/>
+<p float="left">
+  <img src="screenshots/Store.png" width="45%"/>
+  <img src="screenshots/Store_2.png" width="45%"/>
+</p>
 
 ### 💬 Feedback
-<img src="screenshots/Feedback.png" width="400px"/>
+<img src="screenshots/Feedback.png" width="45%"/>
 
 ### 👤 Profile
-<img src="screenshots/Profile.png" width="400px"/>
+<img src="screenshots/Profile.png" width="45%"/>
 
 ### 🖼️ Photo Gallery
-<img src="screenshots/Photo_Gallery.png" width="500px"/>
+<img src="screenshots/Photo_Gallery.png" width="45%"/>
 
 ### 📢 News and Alerts
-<img src="screenshots/New_and_Alert.png" width="400px"/>
+<img src="screenshots/New_and_Alert.png" width="45%"/>
 
 
 <br>
