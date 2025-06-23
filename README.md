@@ -38,7 +38,7 @@ A complete web-based solution to streamline temple administration, online room b
 The <b>Temple Management System</b> is designed to address inefficiencies in the traditional management system used by the temple. It enables digital room booking, donation handling, online order processing, and communication between devotees and temple staff.
 </p>
 
----
+
 
 <a name="features"></a>
 ### ✨ Features
@@ -55,7 +55,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   <li>🔐 Data Privacy and Secure Transactions</li>
 </ui>
 <br>
----
+
 
 <a name="technologies-used"></a>
 ### 🧰 Technologies Used
@@ -83,7 +83,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 - Hardware: Core i3+, 4GB+ RAM, 16GB+ HDD  
 - Database: SQLite
 
----
+
 
 <a name="installation-guide"></a>
 ## ⚙️ Installation Guide
@@ -120,11 +120,9 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Donate Online</li>
     <li>Book Temple Rooms</li>
     <li>Purchase from Spiritual Store</li>
-    <li>Give Feedback<li>
-
-</ui>
+    <li>Give Feedback<li></ui>
     
-<br>
+  <br>
   🛠️ Admin Panel:
     <ui>
     <li>Manage Users,Donations, Bookings</li>
