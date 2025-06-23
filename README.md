@@ -148,7 +148,7 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     ![Profile](screenshots/Profile.png)
 
     ### 🖼️ Photo Gallery
-    ![Photo Gallery](screenshots/Photo_Gallery.png)
+    ![Photo Gallery](https://raw.githubusercontent.com/prit2609/Temple-Management-System/main/screenshots/Photo_Gallery.png)
 
     ### 📢 News and Alerts
     ![News and Alert](screenshots/New_and_Alert.png)
