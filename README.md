@@ -87,24 +87,36 @@ The **Temple Management System** is designed to address inefficiencies in the tr
   python manage.py migrate
 
 5. **Run the server**
-  python manage.py runserver
 
-6. **Visit**: http://127.0.0.1:8000
+   python manage.py runserver
+
+7. **Visit**: http://127.0.0.1:8000
 
 📦 Modules
   🙍‍♂️ User Panel:
+    
     Register/Login
+    
     View Events, News, Rituals
+    
     Donate Online
+    
     Book Temple Rooms
+    
     Purchase from Spiritual Store
+    
     Give Feedback
 
   🛠️ Admin Panel:
+    
     Manage Users, Donations, Bookings
+    
     Inventory & Order Management
+    
     View Feedback
+    
     Generate Reports
+
 
   🖼️ Screenshots
 
@@ -123,20 +135,31 @@ The **Temple Management System** is designed to address inefficiencies in the tr
   ⚠️ Limitations
 
     Room booking updates are not reflected after checkout.
+    
     Limited product availability in the store.
+    
     No Cash on Delivery (COD) option.
+    
     Basic payment options only (no UPI or international methods).
+    
     Basic shipping (no live tracking).
+
 
   🔮 Future Scope
     🔐 Biometric or facial recognition login
+    
     📊 Advanced analytics with AI/ML
+    
     🌐 Social media integration for event promotion
+    
     📦 Real-time inventory & shipping tracking
+    
     🔁 Automation for volunteer/event/resource management
+    
     📱 Mobile App version for Android/iOS
 
   🤝 Contributing
+    
     Want to contribute? Great! Fork this repo and raise a pull request.
 
   📧 Contact
