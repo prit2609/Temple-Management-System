@@ -188,7 +188,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   </ui>
 
 
-  🤝 Contributing
+🤝 Contributing
     
   <br>Want to contribute? Great! Fork this repo and raise a pull request.
 
