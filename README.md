@@ -95,89 +95,83 @@ The **Temple Management System** is designed to address inefficiencies in the tr
 📦 Modules
   🙍‍♂️ User Panel:
     
-    Register/Login
-    
-    View Events, News, Rituals
-    
-    Donate Online
-    
-    Book Temple Rooms
-    
-    Purchase from Spiritual Store
-    
-    Give Feedback
+  Register/Login  
+  View Events, News, Rituals
+  Donate Online
+  Book Temple Rooms
+  Purchase from Spiritual Store  
+  Give Feedback
 
+  
   🛠️ Admin Panel:
     
-    Manage Users, Donations, Bookings    
-    Inventory & Order Management    
-    View Feedback
-    Generate Reports
+   Manage Users, Donations, Bookings    
+   Inventory & Order Management    
+   View Feedback
+   Generate Reports
 
 
   ## 🖼️ Screenshots
 
-    ### 🏠 Home Page
-    ![Home Page](screenshots/Home_1.png)
-![Alt Text](https://github.com/Jitesh38/AlumHub/blob/main/Screenshot%20(418).png)
-![Alt Text](https://github.com/prit2609/Temple-Management-System/blob/main/screenshots/Donation.png)
-    ![Home Page](screenshots/Home_2.png)
-    ![Home Page](screenshots/Home_3.png)
-    ![Home Page](screenshots/Home_4.png)
+   ### 🏠 Home Page
+![Home Page](screenshots/Home_1.png)
+![Home Page](screenshots/Home_2.png)
+![Home Page](screenshots/Home_3.png)
+![Home Page](screenshots/Home_4.png)
 
-    ### 🔐 Login
-    ![Login](screenshots/Login.png)
 
-    ### 📝 Register
-    ![Register](screenshots/Register.png)
-    ![OTP Verification](screenshots/OTP.png)
-    ![Reset Password](screenshots/OTP_For_Change_Password.png)
+   ### 🔐 Login
+![Login](screenshots/Login.png)
 
-    ### 🛏️ Room Booking
-    ![Room Booking](screenshots/RoomBooking.png)
+   ### 📝 Register
+   ![Register](screenshots/Register.png)
+   ![OTP Verification](screenshots/OTP.png)
+   ![Reset Password](screenshots/OTP_For_Change_Password.png)
 
-    ### 💳 Donation
-    ![Donation](screenshots/Donation.png)
+   ### 🛏️ Room Booking
+   ![Room Booking](screenshots/RoomBooking.png)
 
-    ### 🛍️ Spiritual Store
-    ![Store](screenshots/Store.png)
-    ![Store](screenshots/Store_2.png)
+   ### 💳 Donation
+   ![Donation](screenshots/Donation.png)
 
-    ### 💬 Feedback
-    ![Feedback](screenshots/Feedback.png)
+   ### 🛍️ Spiritual Store
+   ![Store](screenshots/Store.png)
+   ![Store](screenshots/Store_2.png)
 
-    ### 👤 Profile
-    ![Profile](screenshots/Profile.png)
+   ## 💬 Feedback
+   ![Feedback](screenshots/Feedback.png)
 
-    ### 🖼️ Photo Gallery
-    ![Photo Gallery](https://raw.githubusercontent.com/prit2609/Temple-Management-System/main/screenshots/Photo_Gallery.png)
+   ### 👤 Profile
+   ![Profile](screenshots/Profile.png)
 
-    ### 📢 News and Alerts
-    ![News and Alert](screenshots/New_and_Alert.png)
+   ### 🖼️ Photo Gallery
+   ![Photo Gallery](https://raw.githubusercontent.com/prit2609/Temple-Management-System/main/screenshots/Photo_Gallery.png)
+
+   ### 📢 News and Alerts
+   ![News and Alert](screenshots/New_and_Alert.png)
 
 
   ⚠️ Limitations
 
-    Room booking updates are not reflected after checkout.
-    Limited product availability in the store.
-    No Cash on Delivery (COD) option.
-    Basic payment options only (no UPI or international methods).
-    Basic shipping (no live tracking).
+   Room booking updates are not reflected after checkout.
+   Limited product availability in the store.
+   No Cash on Delivery (COD) option.
+   Basic payment options only (no UPI or international methods).
+   Basic shipping (no live tracking).
 
 
   🔮 Future Scope
-    🔐 Biometric or facial recognition login
-    
-    📊 Advanced analytics with AI/ML
-    🌐 Social media integration for event promotion
-    📦 Real-time inventory & shipping tracking
-    🔁 Automation for volunteer/event/resource management
-    📱 Mobile App version for Android/iOS
+  
+   🔐 Biometric or facial recognition login
+   📊 Advanced analytics with AI/ML
+   🌐 Social media integration for event promotion
+   📦 Real-time inventory & shipping tracking
+   🔁 Automation for volunteer/event/resource management
+   📱 Mobile App version for Android/iOS
 
   🤝 Contributing
     
-    Want to contribute? Great! Fork this repo and raise a pull request.
+   Want to contribute? Great! Fork this repo and raise a pull request.
 
   📧 Contact
-    For queries or collaboration:
-    📨 templemanagementsystem66@gmail.com
+   For queries or collaboration: 📨 templemanagementsystem66@gmail.com
