@@ -40,6 +40,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 ---
 
+<a name="features"></a>
 ### ✨ Features
 
 <ui>
@@ -56,6 +57,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 <br>
 ---
 
+<a name="technologies-used"></a>
 ### 🧰 Technologies Used
 
 - <b>Frontend:</b> HTML5, CSS3, JavaScript  
@@ -66,8 +68,8 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 - <b>Diagramming:</b> UML (Use-Case, Activity, Class, Sequence)
 <br>
 ---
-
-## 💻 System Requirements
+<a name="system-requirements"></a>
+### 💻 System Requirements
 
 ### 🖥️ Client Side
 - OS: Windows 7 or higher  
@@ -82,6 +84,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 ---
 
+<a name="installation-guide"></a>
 ## ⚙️ Installation Guide
 
 1. **Clone the repository**
@@ -107,6 +110,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 7. **Visit**: http://127.0.0.1:8000
 <br>
 
+<a name="modules"></a>
 📦 Modules
   🙍‍♂️ User Panel:
     <ui>
@@ -127,8 +131,8 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     </ui>
     <br>
 
-
-  ## 🖼️ Screenshots
+<a name="screenshots"></a>
+## 🖼️ Screenshots
 
 ### 🏠 Home Page
 <p float="left">
@@ -174,6 +178,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
 
 
 <br>
+  <a name="limitations"></a>
   ⚠️ Limitations
   <br></br>
   <ui>
@@ -184,7 +189,7 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
     <li>Basic shipping (no live tracking).</li>
   </ui><br>
 
-
+<a name="future-scope"></a>
   🔮 Future Scope
 
   <ui>  
@@ -197,9 +202,11 @@ The <b>Temple Management System</b> is designed to address inefficiencies in the
   </ui>
 
 <br><br>
+<a name="contributing"></a>
 🤝 Contributing
     <br>Want to contribute? Great! Fork this repo and raise a pull request.<br>
 
+<a name="contact"></a>
   📧 Contact
     For queries or collaboration:<br>
       📨 templemanagementsystem66@gmail.com
