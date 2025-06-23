@@ -143,7 +143,6 @@ The **Temple Management System** is designed to address inefficiencies in the tr
     ### 🛍️ Spiritual Store
     ![Store](screenshots/Strore.png)
     ![Store](screenshots/Strore_2.png)
-    ![Donation](https://github.com/user-attachments/assets/8db4288e-4475-43f9-9566-b7fbd530bb29)
 
 
     ### 💰 Feedback
